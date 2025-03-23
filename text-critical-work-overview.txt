@@ -1,0 +1,49 @@
+Year	File name prefix	Year (of text critical edition)	Code	Author	Work	Licence	Licence (text critical)	Pages in text critical edition	Modernized spelling	
+1839	AlmqvistCJL_SamladeVerk18_Amorina_1839	2000	lb8223722	Carl Jonas Love Almqvist	Samlade Verk 18. Amorina eller Historien om de Fyra	CC BY	lb-svs	1-328			
+1839	AlmqvistCJL_SamladeVerk22_DetGarAn_1839	2011	lb12296349	Carl Jonas Love Almqvist	Samlade Verk 22. Det går an	CC BY	lb-svs	5-104			
+1840	AlmqvistCJL_SamladeVerk23_Amalia_Hillner_1840	1995	lb1722439	Carl Jonas Love Almqvist	Samlade Verk 23. Amalia Hillner	CC BY	lb-svs	25-333			
+1843	AlmqvistCJL_SamladeVerk25_TreFruarISmaland_1_1843	1998	lb1722444	Carl Jonas Love Almqvist	Samlade Verk 25. Tre fruar i Småland	CC BY	lb-svs	5-149			
+1843	AlmqvistCJL_SamladeVerk25_TreFruarISmaland_2_1843	1998	lb1722444	Carl Jonas Love Almqvist	Samlade Verk 25. Tre fruar i Småland	CC BY	lb-svs	153-301			
+1843	AlmqvistCJL_SamladeVerk25_TreFruarISmaland_3_1843	1998	lb1722444	Carl Jonas Love Almqvist	Samlade Verk 25. Tre fruar i Småland	CC BY	lb-svs	305-507			
+1845	AlmqvistCJL_SamladeVerk27_Smaragdbruden_1845	2001	lb8223723	Carl Jonas Love Almqvist	Samlade Verk 27. Smaragdbruden. Följderna af ett rikt nordiskt arf	CC BY	lb-svs	7-405			
+1847	AlmqvistCJL_SamladeVerk29_SysterOchBror_1847	1999	lb1722446	Carl Jonas Love Almqvist	Samlade Verk 29. Syster och bror. En af Stockholms hemligheter	CC BY	lb-svs	5-232			
+1847	AlmqvistCJL_SamladeVerk30_HerrarnePaEkolsund_1_1847	1997	lb1722442	Carl Jonas Love Almqvist	Samlade Verk 30. Herrarne på Ekolsund. Del 1 och 2	CC BY	lb-svs	5-295			
+1847	AlmqvistCJL_SamladeVerk30_HerrarnePaEkolsund_2_1847	1997	lb1722442	Carl Jonas Love Almqvist	Samlade Verk 30. Herrarne på Ekolsund. Del 1 och 2	CC BY	lb-svs	299-564			
+1847	AlmqvistCJL_SamladeVerk31_HerrarnePaEkolsund_3_1847	1997	lb1722443	Carl Jonas Love Almqvist	Samlade Verk 31. Herrarne på Ekolsund. Del 3	CC BY	lb-svs	3-331			
+1834	AlmqvistCJL_SamladeVerk6_DrottningensJuvelsmycke_1834	2000	lb8601043	Carl Jonas Love Almqvist	Samlade Verk 6. Törnrosens bok. Duodesupplagan. Band IV. Drottningens Juvelsmycke (1834)	CC BY	lb-svs	5-293			
+1830	BremerF_FamillenH_1830	2000	lb8372782	Fredrika Bremer	Famillen H***	CC BY	lb-svs	3-192			
+1837	BremerF_Grannarne_1837	2000	lb8372780	Fredrika Bremer	Grannarne	CC BY	lb-svs	3-390			
+1844	FlygareCarlenE_PalVarning_1844	2000	lb7626827	Emilie Flygare-Carlén	Pål Värning. En skärgårds-ynglings äfventyr	CC BY	lb-svs	3-280			
+1836	KnorringS_Illusionerna_1836	2000	lb8372781	Sophie von Knorring	Illusionerna	CC BY	lb-svs	III-174			
+1891	LagerlofS_GostaBerlingsSaga1_1891	2013	lb99907003	Selma Lagerlöf	Gösta Berlings saga. Förra delen [vetenskaplig utgåva]	CC BY	CCO	1-287
+1891    LagerlofS_GostaBerlingsSaga2_1891       2013    lb99907004      Selma Lagerlöf    Gösta Berlings saga. Senare delen [vetenskaplig utgåva]   CC BY	CCO   1-296  
+1882	StrindbergA_DetNyaRiket_1882	1983	lb262940	August Strindberg	Samlade Verk. Nationalupplaga. 12. Det nya riket. Skildringar från attentatens och jubelfesternas tidevarv	CC BY	lb-assv	7-125	Modernized spelling		
+1903	StrindbergA_EnsamSagor_Ensam_1903	1994	lb8203269	August Strindberg	Samlade Verk. Nationalupplaga. 52. Ensam. Sagor	CC BY	lb-assv	9-82	Modernized spelling		
+1903	StrindbergA_EnsamSagor_Sagor_1903	1994	lb8203269	August Strindberg	Samlade Verk. Nationalupplaga. 52. Ensam. Sagor	CC BY	lb-assv	85-224	Modernized spelling		
+1884	StrindbergA_Giftas_1_1884	1982	lb8203287	August Strindberg	Samlade
+Verk. Nationalupplaga. 16. Giftas I–II. Äktenskapshistorier	CC BY	lb-assv	7-166	Modernized spelling		
+1886	StrindbergA_Giftas_2_1886	1982	lb8203287	August Strindberg	Samlade Verk. Nationalupplaga. 16. Giftas I–II. Äktenskapshistorier	CC BY	lb-assv	167-317	Modernized spelling		
+1904	StrindbergA_GotiskaRummen_1904	2001	lb8404152	August Strindberg	Samlade Verk. Nationalupplaga. 53. Götiska rummen. Släkt-öden från sekelslutet	CC BY	lb-assv	7-231	Modernized spelling		
+1886	StrindbergA_HanOchHon_1886	1996	lb8203283	August Strindberg	Samlade Verk. Nationalupplaga. 22. Han och hon: en själs utvecklingshistoria (1875-76) 	CC BY	lb-assv	7-215	Modernized spelling		
+1887	StrindbergA_Hemsoborna_1887	2012	lb13553440	August Strindberg	Samlade Verk. Nationalupplaga. 24. Hemsöborna. Skärgårds-berättelse	CC BY	lb-assv	7-134	Modernized spelling		
+1905	StrindbergA_HistoriskaMiniatyrer_1905	1997	lb8203284	August Strindberg	Samlade Verk. Nationalupplaga. 54. Historiska miniatyrer	CC BY	lb-assv	7-249	Modernized spelling		
+1890	StrindbergA_IHavsbandet_1890	1982	lb8203289	August Strindberg	Samlade Verk. Nationalupplaga. 31. I havsbandet	CC BY	lb-assv	7-183	Modernized spelling		
+1877	StrindbergA_IVarbrytningen_FrånFjardingen_1877	1981	lb262941	August Strindberg	Samlade Verk. Nationalupplaga. 2. I vårbrytningen. En berättelse från Stockholms skärgård. Från havet. Här och där. Från Fjärdingen och Svartbäcken	CC BY	lb-assv	113-190	Modernized spelling
+1902	StrindbergA_KlostretFagervik_FagervikOchSkamsund_1902	1994	lb8203275	August Strindberg	Samlade Verk. Nationalupplaga. 50. Klostret. Fagervik och Skamsund	CC BY	lb-assv	115-282	Modernized spelling		
+1898	StrindbergA_KlostretFagervik_Klostret_1898	1994	lb8203275	August Strindberg	Samlade Verk. Nationalupplaga. 50. Klostret. Fagervik och Skamsund	CC BY	lb-assv	9-111	Modernized spelling		
+1906	StrindbergA_NyaSvenskaOden_1906	1981	lb262942	August Strindberg	Samlade Verk. Nationalupplaga. 13. Svenska öden och äventyr I. Berättelser från alla tidevarv	CC BY	lb-assv	7-296	Modernized spelling		
+1879	StrindbergA_RodaRummet_1879	1981	lb262937	August Strindberg	Samlade Verk. Nationalupplaga. 6. Röda rummet. Skildringar ur artist- och författarlivet	CC BY	lb-assv	11-289	Modernized spelling		
+1888	StrindbergA_Skarkarlsliv_1888	1984	lb262914	August Strindberg	Samlade Verk. Nationalupplaga. 26. Skärkarlsliv	CC BY	lb-assv	7-163	Modernized spelling		
+1907	StrindbergA_SvartaFanor_1907	1995	lb8203277	August Strindberg	Samlade Verk. Nationalupplaga. 57. Svarta fanor. Sedeskildringar från sekelskiftet	CC BY	lb-assv	7-219	Modernized spelling		
+1883	StrindbergA_SvenskaOden1_1883	1981	lb262942	August Strindberg	Samlade Verk. Nationalupplaga. 13. Svenska öden och äventyr I. Berättelser från alla tidevarv	CC BY	lb-assv	7-248	Modernized spelling		
+1907	StrindbergA_Syndabocken_1907	1984	lb8203291	August Strindberg	Samlade Verk. Nationalupplaga. 55. Taklagsöl. Syndabocken. Två berättelser	CC BY	lb-assv	67-156	Modernized spelling		
+1906	StrindbergA_Taklagsol_1906	1984	lb8203291	August Strindberg	Samlade Verk. Nationalupplaga. 55. Taklagsöl. Syndabocken. Två berättelser	CC BY	lb-assv	9-63	Modernized spelling		
+1886	StrindbergA_TjanstekvinnansSon_1_EnSjalsUtvecklingshistoria_1886	1989	lb262907	August Strindberg	Samlade Verk. Nationalupplaga. 20. Tjänstekvinnans son I–II	CC BY	lb-assv	9-167	Modernized spelling		
+1886	StrindbergA_TjanstekvinnansSon_2_Jasningstiden_1886	1989	lb262907	August Strindberg	Samlade Verk. Nationalupplaga. 20. Tjänstekvinnans son I–II	CC BY	lb-assv	171-341	Modernized spelling		
+1887	StrindbergA_TjanstekvinnansSon_3_IRodaRummet_1887	1996	lb8203282	August Strindberg	Samlade Verk. Nationalupplaga. 21. Tjänstekvinnans son III–IV	CC BY	lb-assv	9-113	Modernized spelling		
+1909	StrindbergA_TjanstekvinnansSon_4_Forfattaren_1909	1996	lb8203282	August Strindberg	Samlade Verk. Nationalupplaga. 21. Tjänstekvinnans son III–IV	CC BY	lb-assv	117-229	Modernized spelling		
+1885	StrindbergA_UtopierIVerkligheten_1885	1984	lb8203272	August Strindberg	Samlade Verk. Nationalupplaga. 19. Utopier i verkligheten. Fyra berättelser	CC BY	lb-assv	7-179	Modernized spelling		
+1887	StrindbergA_Vivisektioner_1887	1985	lb262944	August Strindberg	Samlade Verk. Nationalupplaga. 29. Vivisektioner. Blomstermålningar och djurstycken. Skildringar av naturen. Silverträsket	CC BY	lb-assv	9-163	Modernized spelling		
+1888	StrindbergA_Vivisektioner_Blomstermalningar_1888	1985	lb262944	August Strindberg	Samlade Verk. Nationalupplaga. 29. Vivisektioner. Blomstermålningar och djurstycken. Skildringar av naturen. Silverträsket	CC BY	lb-assv	167-225	Modernized spelling		
+1898	StrindbergA_Vivisektioner_Silvertrasket_1898	1985	lb262944	August Strindberg	Samlade Verk. Nationalupplaga. 29. Vivisektioner. Blomstermålningar och djurstycken. Skildringar av naturen. Silverträsket	CC BY	lb-assv	229-271	Modernized spelling		
+1897	StrindbergA_Vivisektioner_Skildringar_1897	1985	lb262944	August Strindberg	Samlade Verk. Nationalupplaga. 29. Vivisektioner. Blomstermålningar och djurstycken. Skildringar av naturen. Silverträsket	CC BY	lb-assv	275-295	Modernized spelling		

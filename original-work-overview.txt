@@ -1,0 +1,304 @@
+Year	Code	File name prefix	Author	Work	Licence
+1896	lb10149711	ElkanS_SkiftandeStamningar_1896	Sophie Elkan	Skiftande stämningar. Ett novellhäfte af Rust Roest	cc-by	
+1914	lb104984	EngstromA_BlackOchSaltvatten_1914	Albert Engström	Bläck och saltvatten. Berättelser	cc-by	
+1910	lb108915	ElkanS_Anckarstrom1_1910	Sophie Elkan	Anckarström. En historia från idyllens och revolutionernas tidehvarf. I. Jacob Jan	cc-by	
+1910	lb108916	ElkanS_Anckarstrom2_1910	Sophie Elkan	Anckarström. En historia från idyllens och revolutionernas tidehvarf. II. Kungamördaren	cc-by	
+1899	lb1163014	LagerlofS_EnHerrgards_1899	Selma Lagerlöf	En herrgårdssägen	cc-by	
+1918	lb1175632	SteenhoffF_FilippasOden_1918	Frida Stéenhoff	Filippas öden. Roman	cc-by	
+1921	lb1187656	BergmanHj_Farmor_1921	Hjalmar Bergman	Farmor och Vår Herre	cc-by	
+1905	lb11984	BergerH_Ysail_1905	Henning Berger	Ysaïl. En berättelse från Chicago	cc-by	
+1910	lb11986	BergerH_Bendel_1910	Henning Berger	Bendel & Co	cc-by	
+1892	lb1200937	LundegardA_Titania_1892	Axel Lundegård	Titania. En kärlekssaga	cc-by	
+1926	lb1202930	MallingM_MinaDagbocker_1926	Mathilda Malling	Mina dagböcker. Ungdomsdrömmar och ungdomsbekymmer	cc-by	
+1934	lb12043	BoyeK_Kris_1934	Karin Boye	Kris	cc-by	
+1936	lb12044	BoyeK_ForLite_1936	Karin Boye	För lite. Roman	cc-by	
+1885	lb1205720	MallingM_BertaFuncke_1885	Mathilda Malling	Berta Funcke. Berättelse	cc-by	
+1904	lb12079	HeidenstamV_SkogenSusar_1904	Verner von Heidenstam	Skogen susar. Berättelser och sagor	cc-by	
+1900	lb12089	HeidenstamV_SanktGoranOchDraken_1900	Verner von Heidenstam	Sankt Göran och draken. Berättelser	cc-by	
+1928	lb12102	LagerlofS_AnnaSvard_1928	Selma Lagerlöf	Anna Svärd	cc-by	
+1914	lb12106	LagerlofS_KejsarnAvPortugallien_1914	Selma Lagerlöf	Kejsarn av Portugallien. En värmlandsberättelse	cc-by	
+1911	lb12107	LagerlofS_LiljecronasHem_1911	Selma Lagerlöf	Liljecronas hem	cc-by	
+1901	lb12398	HeidenstamV_HeligaBirgittasPilgrims_1901	Verner von Heidenstam	Heliga Birgittas pilgrimsfärd	cc-by	
+1918	lb12466589	LagerlofS_Bannlyst_1918	Selma Lagerlöf	Bannlyst. En berättelse	cc-by	
+1895	lb1247611	HanssonO_EnUppfostrare_1895	Ola Hansson	En uppfostrare	cc-by	
+1897	lb1256126	LagerlofS_AntikristsMirakler_1897	Selma Lagerlöf	Antikrists Mirakler	cc-by	
+1925	lb12597	LagerlofS_CharlotteLowenskold_1925	Selma Lagerlöf	Charlotte Löwensköld	cc-by	
+1884	lb1282241	GeijerstamG_FattigtFolkI_1884	Gustaf af Geijerstam	Fattigt folk. Berättelser [1884]	cc-by	
+1889	lb1282242	GeijerstamG_FattigtFolkII_1889	Gustaf af Geijerstam	Fattigt folk. Berättelser [1889]	cc-by	
+1899	lb1316535	AngeredStrandbergH_FranDetNyaochGamlaLandet_1899	Hilma Angered Strandberg	Från det nya och gamla landet. Noveller	cc-by	
+1904	lb1316542	AngeredStrandbergH_LydiaVik_1904	Hilma Angered Strandberg	Lydia Vik. En själs historia	cc-by	
+1927	lb1317426	BergmanHj_KerrmansIParadiset_1927	Hjalmar Bergman	Kerrmans i Paradiset	cc-by	
+1919	lb1325557	SandelM_Hexdansen_1919	Maria Sandel	Hexdansen	cc-by	
+1929	lb1331554	SernerG_DrZimmertürsBisarraMoten_1929	Frank Heller	D:r Zimmertürs bisarra möten	cc-by	
+1928	lb1331555	SernerG_DrZimmertürsDiagnoser_1928	Frank Heller	D:r Zimmertürs diagnoser	cc-by	
+1929	lb1333350	KrusenstjernaA_HandelserPaVagen_1929	Agnes von Krusenstjerna	Händelser på vägen	cc-by	
+1926	lb1333351	KrusenstjernaA_TonysSistaLaroar_1926	Agnes von Krusenstjerna	Tonys sista läroår. Resa till kejsarens hotell	cc-by	
+1913	lb1333491	SandelM_FamiljenVinge_1913	Maria Sandel	Familjen Vinge. En bok om verkstadsgossar och fabriksflickor [1913]	cc-by	
+1908	lb1333495	SandelM_VidSvaltgransen_1908	Maria Sandel	Vid svältgränsen och andra berättelser. Skildringar ur Stockholmslifvet	cc-by	
+1929	lb1335979	SoderbergH_ResanTillRom_1929	Hjalmar Söderberg	Resan till Rom. Noveller	cc-by	
+1928	lb1335981	SoderbergM_DenFrammandeStaden_1928	Mikael Söderberg	Den främmande staden. Berättelser	cc-by	
+1927	lb1342933	SandelM_MannenSomResteSig_1927	Maria Sandel	Mannen som reste sig	cc-by	
+1924	lb1346499	AngeredStrandbergH_BarbarensSon_1924	Hilma Angered Strandberg	Barbarens son	cc-by	
+1935	lb1346951	KjellgrenJ_ManniskorKringEnBro_1935	Josef Kjellgren	Människor kring en bro. Roman	cc-by	
+1933	lb1347182	KrusenstjernaA_DelatRumPaKammakaregatan_1933	Agnes von Krusenstjerna	Delat rum på Kammakaregatan	cc-by	
+1933	lb1352264	BoyeK_MeritVaknar_1933	Karin Boye	Merit vaknar	cc-by	
+1934	lb1352265	BoyeK_Uppgorelser_1934	Karin Boye	Uppgörelser. Skisser och noveller	cc-by	
+1931	lb1355669	SernerG_DrZimmertürSagerFarval_1931	Frank Heller	Doktor Zimmertür säger farväl	cc-by	
+1940	lb1362123	BoyeK_UrFunktion_1940	Karin Boye	Ur funktion. Noveller	cc-by	
+1938	lb1381982	VarnlundR_ManByggerEttHus_1938	Rudolf Värnlund	Man bygger ett hus	cc-by	
+1931	lb1405162	SoderbergM_DrommarOchDagdrommar_1931	Mikael Söderberg	Drömmar och dagdrömmar	cc-by	
+1914	lb1435563	AnderssonD_Kolarhistorier_1914	Dan Andersson	Kolarhistorier	cc-by	
+1916	lb1438366	AnderssonD_DetKallasVidskepelse_1916	Dan Andersson	Det kallas vidskepelse	cc-by	
+1920	lb1439322	AnderssonD_Chi_mo_ka_ma_1920	Dan Andersson	Chi-mo-ka-ma. Berättelser från Norra Amerika	cc-by	
+1918	lb1450699	EkK_Gransen_1918	Karin Ek	Gränsen. En historia	cc-by	
+1913	lb1461421	SandelM_Virveln_1913	Maria Sandel	Virveln	cc-by	
+1926	lb1463296	BergmanHj_JonasOchHelen_1926	Hjalmar Bergman	Jonas och Helen	cc-by	
+1910	lb14636490	EngstromA_Min5teBok_1910	Albert Engström	Min 5te bok. Berättelser och stämningar	cc-by	
+1868	lb14662244	LjungstedtA_PsykologiskaGator1_1868	Aurora Ljungstedt	Psykologiska gåtor. En berättelse af Claude Gerard. Första delen	cc-by	
+1868	lb14662246	LjungstedtA_PsykologiskaGator2_1868	Aurora Ljungstedt	Psykologiska gåtor. En berättelse af Claude Gerard. Andra delen	cc-by	
+1868	lb14662247	LjungstedtA_PsykologiskaGator3_1868	Aurora Ljungstedt	Psykologiska gåtor. En berättelse af Claude Gerard. Tredje delen	cc-by	
+1922	lb1470072	BergmanHj_ErosBegravning_1922	Hjalmar Bergman	Eros’ begravning	cc-by	
+1925	lb1470073	BergmanHj_FlickanIFrack_1925	Hjalmar Bergman	Flickan i frack	cc-by	
+1924	lb1481465	SandelM_DropparIFolkhavet_1924	Maria Sandel	Droppar i folkhavet	cc-by	
+1924	lb1484747	VarnlundR_DodaManniskor_1924	Rudolf Värnlund	Döda människor. Noveller	cc-by	
+1923	lb1486149	KrusenstjernaA_EnDagdriverskasAnteckningar_1923	Agnes von Krusenstjerna	En dagdriverskas anteckningar. Silhuetter, skisser och fantasistycken	cc-by	
+1922	lb1486150	KrusenstjernaA_TonyVaxerUpp_1922	Agnes von Krusenstjerna	Tony växer upp. Scener ur ett barndomsliv	cc-by	
+1924	lb1486151	KrusenstjernaA_TonysLaroar_1924	Agnes von Krusenstjerna	Tonys läroår. Episoder ur en ungdom	cc-by	
+1925	lb1486307	LagerlofS_LowenskoldskaR_1925	Selma Lagerlöf	Löwensköldska ringen	cc-by	
+1930	lb1490335	KrusenstjernaA_Kvinnogatan_1930	Agnes von Krusenstjerna	Fröknarna von Pahlen II. Kvinnogatan	cc-by	
+1930	lb1490336	KrusenstjernaA_DenBlaRullgardinen_1930	Agnes von Krusenstjerna	Fröknarna von Pahlen I. Den blå rullgardinen 	cc-by	
+1931	lb1490337	KrusenstjernaA_HostensSkuggor_1931	Agnes von Krusenstjerna	Fröknarna von Pahlen III. Höstens skuggor	cc-by	
+1935	lb1490339	KrusenstjernaA_BrollopPaEkered_1935	Agnes von Krusenstjerna	Fröknarna von Pahlen VI. Bröllop på Ekered	cc-by	
+1933	lb1490340	KrusenstjernaA_PortenVidJohannes_1933	Agnes von Krusenstjerna	Fröknarna von Pahlen IV. Porten vid Johannes	cc-by	
+1933	lb1490341	KrusenstjernaA_AlskandePar_1933	Agnes von Krusenstjerna	Fröknarna von Pahlen V. Älskande par	cc-by	
+1887	lb1498004	HanssonO_SensitivaAmorosa_1887	Ola Hansson	Sensitiva amorosa	cc-by	
+1924	lb1524995	BergmanHj_ChefenfruIngeborg_1924	Hjalmar Bergman	Chefen fru Ingeborg	cc-by	
+1920	lb1524996	BergmanHj_HerrvonHancken_1920	Hjalmar Bergman	Herr von Hancken	cc-by	
+1916	lb1525006	BergmanHj_FalskaPapper_1916	Hjalmar Bergman	Falska papper	cc-by	
+1900	lb1530972	ForsslundKE_Djur_1900	Karl-Erik Forsslund	Djur. Skisser och historier från Storgården	cc-by	
+1840	lb1542694	BremerF_NyaTeckningar5_1840	Fredrika Bremer	Nya teckningar utur hvardagslifvet. Del 5, Strid och frid eller några scener i Norge	cc-by	
+1843	lb1543052	KnorringS_Torparen1_1843	Sophie von Knorring	Torparen och hans omgifning. En skildring ur folklifvet. Förra delen	cc-by	
+1843	lb1543053	KnorringS_Torparen2_1843	Sophie von Knorring	Torparen och hans omgifning. En skildring ur folklifvet. Sednare delen	cc-by	
+1928	lb157321	SoderbergH_JesusBarabbas_1928	Hjalmar Söderberg	Jesus Barabbas. (Ur löjtnant Jägerstams memoarer)	cc-by	
+1840	lb1576276	PalmbladVF_TornrosensBokNemligen_1840	Vilhelm Fredrik Palmblad	Törnrosens Bok. Nemligen Den Äkta och Veritabla, utgifven icke af Richard Furumo utan af Hofmarskalken Hugo Löwenstjerna sjelf	cc-by	
+1869	lb1581525	LefflerAC_Handelsevis_1869	Anne Charlotte Leffler	Händelsevis. Trenne teckningar	cc-by	
+1885	lb1595399	BenedictssonV_Pengar_1885	Victoria Benedictsson	Pengar	cc-by	
+1880	lb1595921	BondesonA_JonISlatthult_1880	August Bondeson	Jon i Slätthult. Halländska gränsbolifvet	cc-by	
+1882	lb1597131	GeijerstamG_Grakallt_1882	Gustaf af Geijerstam	Gråkallt. Teckningar och utkast	cc-by	
+1880	lb1597304	GullbergG_RomanerIVastfickformat_1880	Gustaf Teodor Gullberg	Romaner i västfickformat. Parodistiska ströftåg efter berömda mönster	cc-by	
+1883	lb1598359	LevertinO_SmamyntSkizzer_1883	Oscar Levertin	Småmynt. Skizzer	cc-by	
+1885	lb1598360	LevertinO_Konflikter_1885	Oscar Levertin	Konflikter. Nya noveller	cc-by	
+1885	lb1598586	LundegardA_IGryningen_1885	Axel Lundegård	I gryningen. Novelletter	cc-by	
+1878	lb1598607	LundinC_OxygenAromasia_1878	Claës Lundin	Oxygen och Aromasia. Bilder från år 2378 efter en främmande idé	cc-by	
+1880	lb1601984	FlygareCarlenE_KerstinMariasFastegafva_1880	Emilie Flygare-Carlén	Kerstin Marias fästegåfva. Karaktärsbild ur bondlifvets krönika	cc-by	
+1907	lb1611436	AngeredStrandbergH_Trollmark_1907	Hilma Angered Strandberg	Trollmark och andra berättelser	cc-by	
+1908	lb1611438	AngeredStrandbergH_Odesglimtar_1908	Hilma Angered Strandberg	Ödesglimtar	cc-by	
+1908	lb1611687	BergerH_UrEnEnsamsDAgbok_1908	Henning Berger	Ur en ensams dagbok	cc-by	
+1910	lb1611717	BergmanHj_Amourer_1910	Hjalmar Bergman	Amourer	cc-by	
+1907	lb1611718	BergmanHj_BlaBlommor_1907	Hjalmar Bergman	Blå blommor	cc-by	
+1910	lb1611719	BergmanHj_HansNadsTestamente_1910	Hjalmar Bergman	Hans nåds testamente	cc-by	
+1908	lb1612943	ElkanS_FranOstanOchVastan_1908	Sophie Elkan	Från Östan och Västan. En novellbok	cc-by	
+1909	lb1612989	EngstromA_EnBokTill_1909	Albert Engström	En bok till	cc-by	
+1905	lb1612991	EngstromA_EnBok_1905	Albert Engström	En bok	cc-by	
+1907	lb1612994	EngstromA_MittLifOchLefverne_1907	Albert Engström	Mitt lif och lefverne	cc-by	
+1907	lb1613203	FitinghoffL_BarnenIfranFrostmofjallet_1907	Laura Fitinghoff	Barnen ifrån Frostmofjället. En barnberättelse för små och stora	cc-by	
+1910	lb1615057	KampeA_Mikaelsdal_1910	Alfred Kämpe	Mikaelsdal	cc-by	
+1909	lb1615058	KampeA_Torpare_1909	Alfred Kämpe	Torpare. Några skisser från herregårdsfolkets liv	cc-by	
+1907	lb1615059	KampeA_Tralar_1907	Alfred Kämpe	Trälar. Några berättelser från en herregård	cc-by	
+1908	lb1615101	LagerlofS_EnSagaOmEnSaga_1908	Selma Lagerlöf	En saga om en saga och andra sagor	cc-by	
+1906	lb1618496	UddgrenG_KringRosenbuskenUngbohemen_1906	Gustaf Uddgren	Kring rosenbusken. Ungbohêmen. Två novelletter	cc-by	
+1907	lb1619134	WagnerE_FranDetJordiskaMuseet_1907	Elin Wägner	Från det jordiska museet. Skisser	cc-by	
+1908	lb1619135	WagnerE_Norrtullsligan_1908	Elin Wägner	Norrtullsligan. Elisabeths krönika	cc-by	
+1892	lb1620755	AgrellA_IStockholm_1892	Alfhild Agrell	I Stockholm. Också en resebeskrifning	cc-by	
+1887	lb1620756	AgrellA_PaLandsbygden_1887	Alfhild Agrell	På landsbygden	cc-by	
+1888	lb1621081	BenedictssonV_Modern_1888	Victoria Benedictsson	Modern. En berättelse	cc-by	
+1894	lb1622270	ElkanS_SafveKurtOCo_1894	Sophie Elkan	Säfve, Kurt & Co. Nutidsberättelse af Rust Roest	cc-by	
+1887	lb1623196	HedbergT_SkizzerOchBerattelser_1887	Tor Hedberg	Skizzer och berättelser	cc-by	
+1888	lb1623997	MallingM_AliceBrandt_1888	Mathilda Malling	Alice Brandt. En kvinnoprofil	cc-by	
+1889	lb1624464	LundegardA_RodePrinsen_1889	Axel Lundegård	Röde Prinsen. Ett ungdomslif i stämningar	cc-by	
+1888	lb1625230	NyblomH_QvinnoodenNoveller_1888	Helena Nyblom	Qvinnoöden. Noveller	cc-by	
+1893	lb1625594	LindholmF_Stockholmsdetektiven_1893	Fredrik Lindholm	Stockholms-detektiven. Brottmålsroman	cc-by	
+1895	lb1626787	SoderbergH_Forvillelser_1895	Hjalmar Söderberg	Förvillelser. Berättelse	cc-by	
+1914	lb1629500	BergmanHj_KomedierIBergslagen_1914	Hjalmar Bergman	Komedier i Bergslagen. Två släkter	cc-by	
+1914	lb1631307	BergerH_Films_1914	Henning Berger	Films	cc-by	
+1911	lb1631311	BergerH_Paus_1911	Henning Berger	Paus. Noveller	cc-by	
+1913	lb1631349	BergmanHj_Loewenhistorier_1913	Hjalmar Bergman	Loewenhistorier	cc-by	
+1911	lb1632912	EngstromA_GenomMinaGuldbagadeGlasogon_1911	Albert Engström	Genom mina guldbågade glasögon	cc-by	
+1914	lb1634369	HanssonO_TidensKvinnor_1914	Ola Hansson	Tidens kvinnor	cc-by	
+1915	lb1634526	SernerG_StorhertigensFinanser_1915	Frank Heller	Storhertigens finanser. Roman	cc-by	
+1913	lb1635818	KampeA_Fullblod_1913	Alfred Kämpe	Fullblod	cc-by	
+1912	lb1635819	KampeA_Segrare_1912	Alfred Kämpe	Segrare	cc-by	
+1911	lb1635820	KampeA_Vinddrivna_1911	Alfred Kämpe	Vinddrivna	cc-by	
+1915	lb1635940	LandquistE_Suzanne_1915	Ellen Landquist	Suzanne	cc-by	
+1911	lb1636574	LundegardA_DenStoraDagen_1911	Axel Lundegård	Den stora dagen	cc-by	
+1911	lb1641669	WittO_DeSistaManniskorna_1911	Otto Witt	De sista människorna	cc-by	
+1914	lb1641673	WittO_DenUnderbaraSpegeln_1914	Otto Witt	Den underbara spegeln	cc-by	
+1912	lb1641687	WittO_Skapelsen_1912	Otto Witt	Skapelsen. Urtidsroman	cc-by	
+1896	lb1643785	AgrellA_HemmaIJockmock_1896	Alfhild Agrell	Hemma i Jockmock. En skildring ur småstadslifvet sådan den är. Af Lovisa Petterkvist	cc-by	
+1898	lb1643831	AngeredStrandbergH_DenNyaVarlden_1898	Hilma Angered Strandberg	Den nya världen	cc-by	
+1900	lb1644023	BoreE_VildmarkensBarn_1900	Erik Bore	Vildmarkens barn. Skizzer från öfre Norrland	cc-by	
+1896	lb1644392	GeijerstamG_KampenOmKarlek_1896	Gustaf af Geijerstam	Kampen om kärlek. Fyra noveller om äktenskap	cc-by	
+1899	lb1644675	KerfveA_TillKlondyke_1899	Axel Kerfve	Till Klondyke! En svensk guldgräfvares öden	cc-by	
+1897	lb1644998	MolinP_AdalensPoesi_1897	Petrus (Pelle) Molin	Ådalens Poesi. Efterlämnade skrifter af Pelle Molin. Utgifna och försedda med en lefnadsteckning öfver författaren af Gustaf af Geijerstam	cc-by	
+1897	lb1645049	NermanG_Stockholm1950_1897	Gustaf Nerman	Stockholm 1950. En drömbild på Kalmar slott	cc-by	
+1919	lb1648619	AgrellA_EnLappbok_1919	Alfhild Agrell	En lappbok	cc-by	
+1898	lb1648620	AgrellA_Nordanfran1898_1898	Alfhild Agrell	Nordanfrån. Händelser berättade af Stig Stigson [1898]	cc-by	
+1919	lb1649001	AnderssonD_DavidRammsArv_1919	Dan Andersson	David Ramms arv	cc-by	
+1918	lb1650454	CarlbergF_ForRattfardighetsSkull_1918	Frigga Carlberg	För rättfärdighets skull	cc-by	
+1917	lb1651771	FitinghoffL_Brittsommar_1917	Laura Fitinghoff	Brittsommar. Roman	cc-by	
+1918	lb1654505	KrusenstjernaA_HelenasForstaKarlek_1918	Agnes von Krusenstjerna	Helenas första kärlek. En Stockholmsroman	cc-by	
+1918	lb1656719	NyblomH_EnSagokrans_1918	Helena Nyblom	En sagokrans	cc-by	
+1917	lb1660065	UddgrenG_SkugganSomStalHansSjal_1917	Gustaf Uddgren	Skuggan som stal hans själ. Skildring ur den internationella konstnärsbohêmen	cc-by	
+1917	lb1660490	WahlenbergA_EnSpion_1917	Anna Wahlenberg	En spion. Stockholmsroman	cc-by	
+1919	lb1661178	WagnerE_KvarteretOron_1919	Elin Wägner	Kvarteret Oron. En Stockholmshistoria	cc-by	
+1898	lb1662369	AngeredStrandbergH_PaPrarien_1898	Hilma Angered Strandberg	På prärien	cc-by	
+1899	lb1662766	ElkanS_JohnHall_1899	Sophie Elkan	John Hall. En historia från det gamla Götheborg	cc-by	
+1900	lb1662774	EnerothC_ManneMoberg_1900	Carl Eneroth	Manne Mobergs faror och äfventyr. Berättelse från Nordamerikanska inbördeskriget 	cc-by	
+1900	lb1663229	LevertinO_MagistrarneI_1900	Oscar Levertin	Magistrarne i Österås	cc-by	
+1898	lb1664084	SoderbergH_Historietter_1898	Hjalmar Söderberg	Historietter	cc-by	
+1900	lb1664213	WahlenbergA_InteriorerSkisser_1900	Anna Wahlenberg	Interiörer. Skisser	cc-by	
+1900	lb1664227	WallensteenN_FruMargret_1900	Nanna Wallensteen	Fru Margret. Roman ur lifvet	cc-by	
+1840	lb1682545	CrusenstolpeMJ_MorianenForsta_1840	Magnus Jacob Crusenstolpe	Morianen, eller Holstein-Gottorpiska huset i Sverige. Tidsbilder, tecknade på fästningen. Första delen	cc-by	
+1840	lb1682546	CrusenstolpeMJ_MorianenAndra_1840	Magnus Jacob Crusenstolpe	Morianen, eller Holstein-Gottorpiska huset i Sverige. Tidsbilder, tecknade på fästningen. Andra delen	cc-by	
+1901	lb1719038	BergerH_DarUte_1901	Henning Berger	Där ute. Skisser	cc-by	
+1902	lb1719336	LundegardA_ElsaFinne_1902	Axel Lundegård	Elsa Finne	cc-by	
+1904	lb1721445	AgrellA_GudsDrommare_1904	Alfhild Agrell	Guds drömmare	cc-by	
+1905	lb1728740	SoderbergH_DoktorGlas_1905	Hjalmar Söderberg	Doktor Glas. Roman	cc-by	
+1897	lb1741593	BondesonA_SkollarareJohnChronschoughsmemoarer_1897	August Bondeson	Skollärare John Chronschoughs memoarer från uppväksttiden och seminarieåren. Till trycket befordrade af August Bondeson	cc-by	
+1904	lb1741594	BondesonA_SkollarareJohnChronschoughsmemoarerNyfoljd_1904	August Bondeson	Skollärare John Chronschoughs memoarer. Ny följd: från hans första läraretid. Till trycket befordrade af August Bondeson	cc-by	
+1887	lb1790113	BenedictssonV_FruMarianne_1887	Victoria Benedictsson	Fru Marianne	cc-by	
+1819	lb1798027	CederborghF_NagotLitetOmGrefveJaquesPancrace_1819	Fredrik Cederborgh	Något litet om Grefve Jaques Pancrace von Himmel och Jord. En timmas skämt af Författaren till Uno von Trazenberg	cc-by	
+1899	lb1799219	LagerlofS_DrottningarIKungahalla_1899	Selma Lagerlöf	Drottningar i Kungahälla jämte andra berättelser	cc-by	
+1888	lb1814351	BenedictssonV_BerattelserOchUtkast_1888	Victoria Benedictsson	Berättelser och utkast	cc-by	
+1906	lb1844652	ElkanS_Konungen3_1906	Sophie Elkan	Konungen. I landsflykt. En sannsaga berättad af Sophie Elkan	cc-by	
+1907	lb1850713	SoderbergH_DetMorknar_1907	Hjalmar Söderberg	Det mörknar öfver vägen. Berättelser	cc-by	
+1841	lb1854941	KnorringS_Skizzer1_1841	Sophie von Knorring	Skizzer. Första samlingen	cc-by	
+1841	lb1859574	HebbeW_Arabella_1841	Wendela Hebbe	Arabella. Novell af Liana	cc-by	
+1840	lb1863791	FlygareCarlenE_Professorn_1840	Emilie Flygare-Carlén	Professorn och hans skyddslingar. Svenskt original	cc-by	
+1887	lb2002674	BenedictssonV_FolklifOchSmaberattelser_1887	Victoria Benedictsson	Folklif och småberättelser	cc-by	
+1931	lb2040506	BoyeK_Astarte_1931	Karin Boye	Astarte	cc-by	
+1840	lb2055258	MellinGH_SwerigesSistaStrid_1840	Gustaf Henrik Mellin	Sweriges Sista Strid. Fantastiskt Nattstycke	cc-by	
+1842	lb2105353	FlygareCarlenE_RosenPaTistelon1_1842	Emilie Flygare-Carlén	Rosen på Tistelön. Berättelse från skärgården. Förra delen	cc-by	
+1842	lb2105354	FlygareCarlenE_RosenPaTistelon2_1842	Emilie Flygare-Carlén	Rosen på Tistelön. Berättelse från skärgården. Senare delen	cc-by	
+1901	lb2107912	KerfstedtA_Reflexer_1901	Amanda Kerfstedt	Reflexer	cc-by	
+1903	lb2107920	LagerlofS_HerrArnesPenningar_1903	Selma Lagerlöf	Herr Arnes penningar	cc-by	
+1899	lb2156980	KerfveA_GunnarHolmsMinnen1_1899	Axel Kerfve	Gunnar Holms minnen. Ur en Stockholms-detektivs minnen 1. Vackra grefvinnan	cc-by	
+1900	lb2156981	KerfveA_GunnarHolmsMinnen2_1900	Axel Kerfve	Gunnar Holms minnen. Ur en Stockholms-detektivs minnen 2. Mordet på Södra teatern	cc-by	
+1900	lb2156982	KerfveA_GunnarHolmsMinnen3_1900	Axel Kerfve	Gunnar Holms minnen. Ur en Stockholms-detektivs minnen 3. Hans höghets älskarinna	cc-by	
+1900	lb2156983	KerfveA_GunnarHolmsMinnen4_1900	Axel Kerfve	Gunnar Holms minnen. Ur en Stockholms-detektivs minnen 4. Falske doktorn	cc-by	
+1898	lb2172078	LundegardA_Struensee1_1898	Axel Lundegård	Struensee. En människoskildring ur historien i tre romaner. I. Stadsläkaren i Altona	cc-by	
+1899	lb2172079	LundegardA_Struensee2_1899	Axel Lundegård	Struensee. En människoskildring ur historien i tre romaner. II. På höjderna	cc-by	
+1900	lb2172080	LundegardA_Struensee3_1900	Axel Lundegård	Struensee. En människoskildring ur historien i tre romaner. III. Korsets väg	cc-by	
+1857	lb2186124	RydbergV_FribytarenPaOstersjon_1857	Viktor Rydberg	Fribytaren på Östersjön	cc-by	
+1841	lb2204430	PalmbladVF_Noveller2_1841	Vilhelm Fredrik Palmblad	Noveller. Andra häftet. Holmen i sjön Dall	cc-by	
+1840	lb2204431	PalmbladVF_Noveller1_1840	Vilhelm Fredrik Palmblad	Noveller. Första häftet. Kärlek och politik	cc-by	
+1884	lb22168	BenedictssonV_FranSkane_1884	Victoria Benedictsson	Från Skåne. Studier	cc-by	
+1912	lb22199	EngstromA_KryssOchLandkanning_1912	Albert Engström	Kryss och landkänning	cc-by	
+1860	lb2221284	FlygareE_BortaOchHemma_1860	Edvard Flygare	Borta och hemma. Skizzer och noveller	cc-by	
+1841	lb2240463	Anonym_Slangkyss_1841	Anonym	Slängkyss åt Törnrosens Boks, och Nu-Tidens förnämsta Svenska Författarinnors Snille	cc-by	
+1840	lb2240481	BlancheA_SaraWidebeckEnTafla_1840	August Blanche	Sara Widebeck. En tafla ur lifvet	cc-by	
+1902	lb2245703	OdmannJM_EbbaBrahesRing_1902	Jenny Maria Ödmann	Ebba Brahes ring. En stockholms-roman af J–y Brn	cc-by	
+1902	lb2245704	OdmannJM_DoldaBrott_1902	Jenny Maria Ödmann	Dolda brott ur Stockholms mysterier af J–y Brn	cc-by	
+1913	lb23423	KochM_LitteraraStorverk_1913	Martin Koch	Litterära storverk i västficksformat. Parodier	cc-by	
+1800	lb2416751	GranbergPA_Enslighetsalskaren_1800	Per Adolf Granberg	Enslighetsälskaren eller Bref från en ung Man på Landet	cc-by	
+1800	lb2428384	WahlstromP_BrefTillEnVan_1800	Pehr Wahlström	Bref till en vän under en Resa i Landsorterna	cc-by	
+1916	lb2434107	ManssonF_Rattfardiggorelsen1_1916	Fabian Månsson	I	cc-by	
+1916	lb2434108	ManssonF_Rattfardiggorelsen2_1916	Fabian Månsson	I	cc-by	
+1828	lb2437993	BremerF_Teckningar1_1828	Fredrika Bremer	Teckningar utur hvardagslifvet. Svenskt original	cc-by	
+1809	lb2438633	CederborghF_UnoVonTrasenberg1_1809	Fredrik Cederborgh	Uno von Trasenberg. Berättelse af Friherre Dolk	cc-by	
+1809	lb2438634	CederborghF_UnoVonTrasenberg2_1809	Fredrik Cederborgh	Uno von Trasenberg. Berättelse af Friherre Dolk. II Delen	cc-by	
+1810	lb2438635	CederborghF_UnoVonTrasenberg3_1810	Fredrik Cederborgh	Uno von Trasenberg. Berättelse af Friherre Dolk. III. Delen	cc-by	
+1838	lb2489058	FlygareCarlenE_WaldemarKlein_1838	Emilie Flygare-Carlén	Waldemar Klein	cc-by	
+1925	lb249767	JandelR_DenTrangaPorten_1925	Ragnar Jändel	Den trånga porten. En utvecklingshistoria	cc-by	
+1903	lb2554869	BenzonK_Detektivbragder_1903	Karl Benzon	Detektivbragder eller Stockholmsmysterier	cc-by	
+1919	lb2555986	BergerH_Spoksekretaren_1919	Henning Berger	Spöksekretären och andra noveller	cc-by	
+1927	lb2560025	BeskowElisabeth_Vardrommar_1927	Elisabeth Beskow	Vårdrömmar. Berättelser för ungdom	cc-by	
+1849	lb2589232	FlygareCarlenE_Romanhjeltinnan_1849	Emilie Flygare-Carlén	Romanhjeltinnan. Novell	cc-by	
+1917	lb2623648	DuseSA_DoktorSmirnosDagbok_1917	Samuel August Duse	Doktor Smirnos dagbok. Detektivroman. Privatdetektiven Leo Carrings märkvärdiga upplevelser IV	cc-by	
+1935	lb2752427	KrusenstjernaA_AvSammaBlod_1935	Agnes von Krusenstjerna	Fröknarna von Pahlen VII. Av samma blod	cc-by	
+1894	lb2894456	MallingM_EnRomanOmForsteKonsuln_1894	Mathilda Malling	En roman om förste konsuln. Från den 18 brumaire till freden i Amiens	cc-by	
+1865	lb3021673	RydbergV_Singoalla_1865	Viktor Rydberg	Dimmor. Fantasier och historier. Singoalla	cc-by	
+1910	lb305433	HanssonO_Rustgarden_1910	Ola Hansson	Rustgården	cc-by	
+1895	lb305463	HanssonO_ResanHemI_1895	Ola Hansson	Resan hem. En ungdoms- och vandringshistoria. I	cc-by	
+1895	lb305464	HanssonO_ResanHemII_1895	Ola Hansson	Resan hem. En ungdoms- och vandringshistoria. II	cc-by	
+1911	lb3066081	KochM_Ellen_1911	Martin Koch	Ellen. En liten historia	cc-by	
+1895	lb31096	GeijerstamG_MedusasHufvud_1895	Gustaf af Geijerstam	Medusas hufvud. En spöksyn ur lifvet	cc-by	
+1901	lb31100	HanssonO_ForeGiftermalet_1901	Ola Hansson	Före giftermålet	cc-by	
+1899	lb31102	LevertinO_Rococonoveller_1899	Oscar Levertin	Rococo-noveller	cc-by	
+1896	lb31105	HanssonO_VagenTillLifvet_1896	Ola Hansson	Vägen till lifvet	cc-by	
+1889	lb3112850	ElkanS_DurOchMoll_1889	Sophie Elkan	Dur och moll. Skizzer och berättelser af Rust Roest	cc-by	
+1893	lb3112869	ElkanS_RikaFlickor_1893	Sophie Elkan	Rika flickor. Berättelse af Rust Roest, förf. till »Dur och Moll», »Med sordin» m.m.	cc-by	
+1891	lb3112883	ElkanS_MedSordin_1891	Sophie Elkan	Med sordin. Skisser och novelletter af Rust Roest, förf. till »Dur och moll»	cc-by	
+1910	lb31200	WagnerE_Pennskaftet1910_1910	Elin Wägner	Pennskaftet [1910]	cc-by	
+1891	lb31501	LundegardA_LaMouche_1891	Axel Lundegård	La Mouche. En roman från ett dödsläger	cc-by	
+1894	lb31869	LagerlofS_OsynligaLankar_1894	Selma Lagerlöf	Osynliga länkar. Berättelser [1894]	cc-by	
+1908	lb3191797	WagmanFO_SherlockHolmes_1908	Frans Oskar Wågman	Sherlock Holmes i ny belysning	cc-by	
+1922	lb3208338	AnderssonD_PosthumaNoveller_1922	Dan Andersson	Posthuma noveller. Korta historier – Efterlämnade noveller – Chi-mo-ka-ma – Litteraturkritik [Samlade skrifter 4]	cc-by	
+1853	lb3259766	LjungstedtA_HinOndesHus_1853	Aurora Ljungstedt	Hin Ondes hus	cc-by	
+1907	lb338841	LagerlofS_NilsHolgersson1_1907	Selma Lagerlöf	Nils Holgerssons underbara resa genom Sverige. Första bandet	cc-by	
+1907	lb338842	LagerlofS_NilsHolgersson2_1907	Selma Lagerlöf	Nils Holgerssons underbara resa genom Sverige. Andra bandet	cc-by	
+1912	lb354083	SoderbergH_DenAllvarsamma_1912	Hjalmar Söderberg	Den allvarsamma leken	cc-by	
+1906	lb37338	HogbergO_DenStoraVreden1_1906	Olof Högberg	Den stora vreden. Nordsvenska öden ur häfd och sägen. Första delen	cc-by	
+1906	lb37339	HogbergO_DenStoraVreden2_1906	Olof Högberg	Den stora vreden. Nordsvenska öden ur häfd och sägen. Andra delen	cc-by	
+1906	lb37340	HogbergO_DenStoraVreden3_1906	Olof Högberg	Den stora vreden. Nordsvenska öden ur häfd och sägen. Tredje delen	cc-by	
+1924	lb38258	SjobergB_KvartettenSomForra_1924	Birger Sjöberg	Kvartetten, som sprängdes. Förra delen	cc-by	
+1924	lb38259	SjobergB_KvartettenSomSenare_1924	Birger Sjöberg	Kvartetten, som sprängdes. Senare delen	cc-by	
+1916	lb41844	KochM_GudsVackraVarldI_1916	Martin Koch	Guds vackra värld. En historia om rätt och orätt. Del I	cc-by	
+1916	lb41845	KochM_GudsVackraVarldII_1916	Martin Koch	Guds vackra värld. En historia om rätt och orätt. Del II	cc-by	
+1909	lb443177	BergmanHj_Savonarola_1909	Hjalmar Bergman	Savonarola. En munkhistoria berättad af Messer Guidantonio Vespucci	cc-by	
+1940	lb472691	BoyeK_Kallocain_1940	Karin Boye	Kallocain. Roman från 2000-talet	cc-by	
+1859	lb479295	RydbergV_DenSisteAthenaren_1859	Viktor Rydberg	Den siste athenaren	cc-by	
+1906	lb494247	BergmanHj_Solivro_1906	Hjalmar Bergman	Solivro. Prins af Aeretanien	cc-by	
+1912	lb494265	BergmanHj_ViBookarKrokarochRothar_1912	Hjalmar Bergman	Vi Bookar Krokar och Rothar	cc-by	
+1900	lb497987	GeijerstamG_BokenOmLilleBror_1900	Gustaf af Geijerstam	Boken om Lille-Bror. Ett äktenskaps roman	cc-by	
+1892	lb498837	HanssonO_KarlekensTrangmal_1892	Ola Hansson	Kärlekens trångmål	cc-by	
+1889	lb499304	HeidenstamV_Endymion_1889	Verner von Heidenstam	Endymion	cc-by	
+1897	lb499345	HeidenstamV_KarolinernaI_1897	Verner von Heidenstam	Karolinerna. Berättelser. Första samlingen	cc-by	
+1898	lb499346	HeidenstamV_KarolinernaII_1898	Verner von Heidenstam	Karolinerna. Berättelser. Andra samlingen	cc-by	
+1905	lb499468	HeidenstamV_FolkungatradetFolkeFilbyter_1905	Verner von Heidenstam	Folkungaträdet. Folke Filbyter	cc-by	
+1915	lb501508	LagerlofS_TrollOchMann_1915	Selma Lagerlöf	Troll och människor	cc-by	
+1912	lb501583	LagerlofS_Korkarlen_1912	Selma Lagerlöf	Körkarlen	cc-by	
+1904	lb501605	LagerlofS_Kristuslegender_1904	Selma Lagerlöf	Kristuslegender	cc-by	
+1912	lb53736	KochM_Arbetare_1912	Martin Koch	Arbetare. En historia om hat	cc-by	
+1902	lb53883	LagerlofS_JerusalemII_1902	Selma Lagerlöf	Jerusalem. II. I det heliga landet. Berättelse	cc-by	
+1901	lb53884	LagerlofS_JerusalemI_1901	Selma Lagerlöf	Jerusalem. I. I Dalarne. Berättelse	cc-by	
+1928	lb674497	BergmanHj_LottenBrennersFerier_1928	Hjalmar Bergman	Lotten Brenners ferier	cc-by	
+1923	lb674931	BergmanHj_JagLjungMedardus_1923	Hjalmar Bergman	Jag, Ljung och Medardus	cc-by	
+1865	lb70057	FlygareCarlenE_SkuggspelForraDelen_1865	Emilie Flygare-Carlén	Skuggspel. Tidsmålningar och ungdomsbilder. Förra delen	cc-by	
+1865	lb70058	FlygareCarlenE_SkuggspelSenareDelen_1865	Emilie Flygare-Carlén	Skuggspel. Tidsmålningar och ungdomsbilder. Senare delen	cc-by	
+1908	lb722093	HeidenstamV_SvenskarnaOchDerasI_1908	Verner von Heidenstam	Svenskarna och deras hövdingar. Berättelser för unga och gamla. I	cc-by	
+1911	lb722097	HeidenstamV_SvenskarnaOchDerasII_1911	Verner von Heidenstam	Svenskarna och deras hövdingar. Berättelser för unga och gamla. II	cc-by	
+1909	lb73292	SoderbergH_HjartatsOro_1909	Hjalmar Söderberg	Hjärtats oro	cc-by	
+1903	lb791261	SoderbergH_Framlingarna_1903	Hjalmar Söderberg	Främlingarna. Berättelser	cc-by	
+1900	lb8073152	ForsslundKE_Storgarden_1900	Karl-Erik Forsslund	Storgården. En bok om ett hem	cc-by	
+1885	lb8073160	GeijerstamG_ErikGrane_1885	Gustaf af Geijerstam	Erik Grane. Upsalaroman	cc-by	
+1918	lb81740	AnderssonD_DeTreHemlosa_1918	Dan Andersson	De tre hemlösa	cc-by	
+1907	lb8198484	NordstromL_Fiskare_1907	Ludvig Nordström	Fiskare	cc-by	
+1909	lb8207157	NordstromL_Borgare_1909	Ludvig Nordström	Borgare	cc-by	
+1907	lb8208394	HeidenstamV_FolkungatradetBjalboarfvet_1907	Verner von Heidenstam	Folkungaträdet. Bjälboarfvet	cc-by	
+1901	lb8208430	SoderbergH_MartinBircks_1901	Hjalmar Söderberg	Martin Bircks ungdom	cc-by	
+1931	lb8218922	NordstromEB_PatronAnnmari_1931	Ester Blenda Nordström	Patron Annmari. Rackarungen blir bonde	cc-by	
+1933	lb8218923	NordstromEB_PatronForlovarSig_1933	Ester Blenda Nordström	Patron förlovar sig	cc-by	
+1921	lb8220705	NordstromEB_FemtonAr_1921	Ester Blenda Nordström	15 år. Några blad ur en rackarunges liv	cc-by	
+1884	lb8222220	RoosM_BerattelserOchSkizzer_1884	Mathilda Roos	Berättelser och skizzer	cc-by	
+1907	lb8222415	RoosM_HvitLjung_1907	Mathilda Roos	Hvit ljung	cc-by	
+1911	lb8222590	BergerH_FataMorgana_1911	Henning Berger	Fata Morgana. En Stockholmsnovell	cc-by	
+1919	lb8222888	NordstromEB_EnRackarunge_1919	Ester Blenda Nordström	En rackarunge	cc-by	
+1926	lb8224446	VarnlundR_VandrareTillIntet_1926	Rudolf Värnlund	Vandrare till intet. Roman	cc-by	
+1840	lb8225177	RosenJM_DenFriaKarleken_1840	Johan Magnus Rosén	Den fria kärleken. Framtidsroman	cc-by	
+1841	lb8225179	PlatenHCvon_EvelinaReder_1841	Henrica Carolina von Platen	Evelina Reder. Också En tafla ur lifvet	cc-by	
+1916	lb8228290	RegisJ_BlaSparet_1916	Julius Regis	Blå spåret	cc-by	
+1901	lb834345	ElkanS_DrommenOmOsterlandet_1901	Sophie Elkan	Drömmen om Österlandet	cc-by	
+1913	lb842900	WagnerE_HelgaWisbeck_1913	Elin Wägner	Helga Wisbeck	cc-by	
+1834	lb8451921	StalbergW_VinterIHernosand_1834	Wilhelmina Stålberg	En vinter i Hernösand. Novell i bref, af Wilhelmina	cc-by	
+1930	lb904603	BergmanHj_ClownenJac_1930	Hjalmar Bergman	Clownen Jac. Roman	cc-by	
+1914	lb905026	WagnerE_MannenOchKorsbaren_1914	Elin Wägner	Mannen och körsbären med flera berättelser	cc-by	
+1918	lb914400	WagnerE_AsaHanna_1918	Elin Wägner	Åsa-Hanna. Roman	cc-by	
+1919	lb9491746	BergmanHj_MarkurellsIWadkoping_1919	Hjalmar Bergman	Markurells i Wadköping	cc-by	
+1836	lb99904001	SchwerinM_SmasakerAfEn1_1836	Martina von Schwerin den yngre	Småsaker af en nybegynnare. Första afdelningen 1834	cc-by	
+1836	lb99904002	SchwerinM_SmasakerAfEn2_1836	Martina von Schwerin den yngre	Småsaker af en nybegynnare. Andra afdelningen 1835	cc-by	
+1840	lb99904003	SchwerinM_SmasakerAfEn3_1840	Martina von Schwerin den yngre	Småsaker af en nybegynnare. Tredje afdelningen	cc-by	
+1840	lb99904004	SchwerinM_SmasakerAfEn4_1840	Martina von Schwerin den yngre	Småsaker af en nybegynnare. Fjerde afdelningen	cc-by	
+1904	lb99904128	ElkanS_Konungen1_1904	Sophie Elkan	Konungen. En sannsaga berättad af Sophie Elkan. Förra delen	cc-by	
+1904	lb99904129	ElkanS_Konungen2_1904	Sophie Elkan	Konungen. En sannsaga berättad af Sophie Elkan. Senare delen	cc-by	
+1909	lb99904148	BergerH_Dromlandet_1909	Henning Berger	Drömlandet. En Stockholmsnovell	cc-by	

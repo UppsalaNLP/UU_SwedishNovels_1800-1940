@@ -1,0 +1,23 @@
+All works are originally porvided by Litteraturbanken:
+https://litteraturbanken.se/
+
+
+All texts in this corpus are released under the licence CC-BY:
+https://creativecommons.org/licenses/by/4.0/
+
+Several works are extracted from text critical works, originally under the licences:
+lb-svs:
+Litteraturbankens utgåva är baserad på material som tillhandahållits av Svenska Vitterhetssamfundet. ⓒ Svenska Vitterhetssamfundet. Utgivarens inledning och kommentarer får inte spridas eller förändras. Får inte utnyttjas kommersiellt.
+
+lb-assv:
+Litteraturbankens utgåva är baserad på material som tillhandahållits av redaktionen för August Strindbergs Samlade Verk. ⓒ Stockholms universitet. Utgivarens inledning och kommentarer får inte spridas eller förändras. Får inte utnyttjas kommersiellt.
+
+Parts of these works are protected. We have extracted only the publically available older texts, which are under CC-BY licence, and excluded the copyrighted modern material.
+
+CCO:
+https://creativecommons.org/public-domain/cc0/
+
+
+The copyright for each work are listed in the files:
+original-work-overview.txt
+text-critical-work-overview.txt
