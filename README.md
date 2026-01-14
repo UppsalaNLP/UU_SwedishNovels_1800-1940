@@ -29,6 +29,8 @@ Two types of works are included. Original works from Litteraturbanken and text-c
 ## Acknowledgements
 This work is funded by the Swedish Research Council under project 2020-02617: *Fictional prose and language change. The role of colloquialization in the history of Swedish 1830–1930*. 
 
+Computations were enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725, and the Uppsala Multidisciplinary Center for Advanced Computational Science (UPPMAX).
+
 Thank you to Johan Roxendal at Littaraturbanken for helping to extract the original source files.
 
 ## Contact
